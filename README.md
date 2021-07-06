@@ -20,7 +20,8 @@ Following are the steps followed:
 3) Study difference between foreground(moving vehicles) and background(static things).
 4) After this, Background subtraction; image enhancement and Foreground Extraction is done.
 5) Further, image pre-processing is done using Dilation and Erosion.
-6) Then, counters are extracted and then number of Vehicles are counted using them.
+6) Then, contours are extracted and then number of Vehicles are counted using them.
 
-Team: Ashok Jyani, Sparsh Sihotiya and Ujjwal Agarwal; Offered by : Shivanshu Tyagi and Akshay Gupta
+Team: Ashok Jyani, Sparsh Sihotiya and Ujjwal Agarwal </br>
+Offered by : Shivanshu Tyagi and Akshay Gupta under the STAMATICS Department
 
