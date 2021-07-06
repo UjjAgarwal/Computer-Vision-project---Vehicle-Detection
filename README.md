@@ -9,7 +9,7 @@ We have done vehicle detection, tracking and classification by contour extractio
 This task requires only a video: The video might contain vehicles for detection. 
 
 ## Dilation
-<img src="images/plot11.jpg" width="475"> <img src="images/plot12.jpg" width="475">
+<img src="images/plot11.jpg" width="450"> <img src="images/plot12.jpg" width="450">
 
 ## Output 
 This is the detection done by our model.
