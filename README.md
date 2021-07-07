@@ -26,13 +26,7 @@ Following are the steps followed:
 6) Then, contours are extracted and then number of Vehicles are counted using them.
 
 
-
-
-
-
-
 https://user-images.githubusercontent.com/84260430/124701978-2b5cc100-df0d-11eb-943f-b61c2107fe2f.mp4
-
 
 
 ## Conclusion and Limitations 
