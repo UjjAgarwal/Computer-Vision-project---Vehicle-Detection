@@ -25,6 +25,16 @@ Following are the steps followed:
 5) Further, image pre-processing is done using Dilation and Erosion.
 6) Then, contours are extracted and then number of Vehicles are counted using them.
 
+
+
+
+
+
+
+https://user-images.githubusercontent.com/84260430/124701978-2b5cc100-df0d-11eb-943f-b61c2107fe2f.mp4
+
+
+
 ## Conclusion and Limitations 
 There is a great amount of potential applications of vehicle identification and tracking on expressways and highways due to traffic congestion. We have developed a vision-based system for effective detection and counting of vehicles on the road in this study. </br>
 **A drawback of the project is that setting the region of interest requires human intervention. For vehicle counting, the user must draw an imaginary line where the center of the contours intersects thus, the accuracy is dependent on the human supervisor's opinion.
